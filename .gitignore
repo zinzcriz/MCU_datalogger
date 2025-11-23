@@ -1,2 +1,6 @@
 MCU_datalogger-backups/*
 git_token.txt
+#auto_saved_files#
+~MCU_datalogger.kicad_sch.lck
+MCU_datalogger.kicad_pro
+MCU_datalogger.kicad_prl

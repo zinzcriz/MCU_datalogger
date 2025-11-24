@@ -7,7 +7,7 @@ git_token.txt
 sym-lib-table
 fp-info-cache
 *.xml
-
+fp-lib-table
 
 # Ignore auto saved files folder
 \#auto_saved_files\#

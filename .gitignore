@@ -1,7 +1,17 @@
 MCU_datalogger-backups/*
 git_token.txt
+
+# Ignore KiCad project files
 *.kicad_pro
 *.kicad_prl
 sym-lib-table
 fp-info-cache
 *.xml
+
+
+# Ignore auto saved files folder
+#auto_saved_files#
+
+# Ignore lock files
+*.kicad_sch.lck
+*.kicad_pcb.lck
